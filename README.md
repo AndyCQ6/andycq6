@@ -23,7 +23,7 @@ Tools and technologies I enjoy working with:
 
 ## Selected Work
 
-- **[2Study Project](https://github.com/AndyCQ6)** — Independent initiative building functional digital tools and organizational resources to optimize student workflows.
+- **[2Study Project]([https://github.com/AndyCQ6](https://www.instagram.com/2study_project/))** — Independent initiative building functional digital tools and organizational resources to optimize student workflows.
 
 - **Beach Cleanup Management System** — Developed an academic software proposal and ODIE data analysis in C++ to dynamically distribute cleanup efforts across coastal sectors in Coatzacoalcos.
 
