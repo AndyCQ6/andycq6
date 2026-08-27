@@ -25,5 +25,4 @@ Tools and technologies I enjoy working with:
 - **[2Study Project]([https://github.com/AndyCQ6](https://www.instagram.com/2study_project/))** — Independent initiative building functional digital tools and organizational resources to optimize student workflows.
 
 ## Let's Connect
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/AndyCQ6)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/andycq6/)
