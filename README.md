@@ -1,4 +1,4 @@
-# Hi, I'm Andy Corro Quezada
+# Hi, I'm Andy CQ! 🐳
 
 ## About me
 Software Engineering student at Universidad Veracruzana, interested in building reliable software systems, efficient data structures, and practical logic applications.
@@ -15,7 +15,7 @@ Tools and technologies I enjoy working with:
 
 **Languages & Logic**
 
-[![Languages](https://skillicons.dev/icons?i=cpp,c,linux&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,java,linux&theme=dark)](https://skillicons.dev)
 
 **Development & Tools**
 
