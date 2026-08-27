@@ -7,7 +7,6 @@ Software Engineering student at Universidad Veracruzana, interested in building 
 - Creator and driver of **2Study**, an independent project focused on building digital tools and resources for academic organization.
 - Experienced in writing programming logic, algorithms, and data management systems using C++ and Prolog.
 - Focused on translating theoretical concepts into clean, functional, and real-world software solutions.
-- Based in Mexico and open to software engineering and development opportunities.
 
 ## Technologies
 
@@ -24,10 +23,9 @@ Tools and technologies I enjoy working with:
 ## Selected Work
 
 - **[2Study Project]([https://github.com/AndyCQ6](https://www.instagram.com/2study_project/))** — Independent initiative building functional digital tools and organizational resources to optimize student workflows.
-
-- **Beach Cleanup Management System** — Developed an academic software proposal and ODIE data analysis in C++ to dynamically distribute cleanup efforts across coastal sectors in Coatzacoalcos.
-
+  
 - **Algorithmic Logic & Data Structures** — Implemented core algorithms and data management systems, including Union-Find structures and sorting mechanisms, utilizing C++ and Prolog.
 
 ## Let's Connect
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/AndyCQ6)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/andycq6/)
