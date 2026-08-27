@@ -14,7 +14,7 @@ Tools and technologies I enjoy working with:
 
 **Languages & Logic**
 
-[![Languages](https://skillicons.dev/icons?i=cpp,java,r&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,python,r,java&theme=dark)](https://skillicons.dev)
 
 **Development & Tools**
 
