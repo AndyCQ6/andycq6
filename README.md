@@ -14,11 +14,11 @@ Tools and technologies I enjoy working with:
 
 **Languages & Logic**
 
-[![Languages](https://skillicons.dev/icons?i=cpp,java,linux&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,java&theme=dark)](https://skillicons.dev)
 
 **Development & Tools**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,clion&theme=dark)](https://skillicons.dev)
 
 ## Selected Work
 
