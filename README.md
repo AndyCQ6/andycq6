@@ -1,4 +1,4 @@
-# Hi, I'm Andy CQ! 🐳
+# Hi, there. I'm Andy CQ! 🐳
 
 ## About me
 Software Engineering student at Universidad Veracruzana, interested in building reliable software systems, efficient data structures, and practical logic applications.
