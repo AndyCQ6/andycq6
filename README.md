@@ -23,8 +23,6 @@ Tools and technologies I enjoy working with:
 ## Selected Work
 
 - **[2Study Project]([https://github.com/AndyCQ6](https://www.instagram.com/2study_project/))** — Independent initiative building functional digital tools and organizational resources to optimize student workflows.
-  
-- **Algorithmic Logic & Data Structures** — Implemented core algorithms and data management systems, including Union-Find structures and sorting mechanisms, utilizing C++ and Prolog.
 
 ## Let's Connect
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/AndyCQ6)
