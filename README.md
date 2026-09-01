@@ -18,7 +18,7 @@ Tools and technologies I enjoy working with:
 
 **Development & Tools**
 
-[![Tools](https://skillicons.dev/icons?i=git,notion,github,vscode,clion,postgresql&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,notion,vscode,clion,postgresql&theme=dark)](https://skillicons.dev)
 
 ## Selected Work
 
