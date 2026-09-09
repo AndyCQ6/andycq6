@@ -1,28 +1,34 @@
-# Hi, there. I'm Andy CQ! 🐳
+# Hi, I'm Andy Corro Quezada 🐳
 
 ## About me
-Software Engineering student at Universidad Veracruzana, interested in building reliable software systems, efficient data structures, and practical logic applications.
 
-- Studying Software Engineering at the Universidad Veracruzana, campus Coatzacoalcos.
-- Creator and driver of **2Study**, an independent project focused on building digital tools and resources for academic organization.
-- Experienced in writing programming logic, algorithms, and data management systems using C++ and Prolog.
-- Focused on translating theoretical concepts into clean, functional, and real-world software solutions.
+Software Engineering student at Universidad Veracruzana (Coatzacoalcos), currently building toward AI Engineering — backend systems, LLM-powered APIs, and shipping real products, not just notebooks.
+
+- 3rd-semester Software Engineering student, working through a self-directed roadmap to reach AI Engineer–level skills ahead of the formal AI coursework (which doesn't start until 7th semester here).
+- Creator of **2Study**, an independent exam-prep business (EXANI-II/UNAM content) with real paying users — now being rebuilt with an actual backend and, eventually, AI-powered search.
+- Focused on production-oriented AI engineering: FastAPI, RAG, and LLM APIs, over purely academic/research ML.
+- Working toward a Mitacs Globalink-style research exchange in Canada, planned for 2028.
 
 ## Technologies
 
-Tools and technologies I enjoy working with:
-
 **Languages & Logic**
 
-[![Languages](https://skillicons.dev/icons?i=cpp,python,r,java&theme=dark)](https://skillicons.dev)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Prolog](https://img.shields.io/badge/-Prolog-000000?style=flat-square)
 
-**Development & Tools**
+**Currently learning / building with**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,notion,vscode,clion,postgresql&theme=dark)](https://skillicons.dev)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## Selected Work
 
-- **[2Study Project]([https://github.com/AndyCQ6](https://www.instagram.com/2study_project/))** — Independent initiative building functional digital tools and organizational resources to optimize student workflows.
+- **[2study-api](https://github.com/AndyCQ6/2study-api)** — Backend for 2Study's exam-prep content: serves study cards by subject/unit and keyword search, with a documented path toward semantic search (RAG). Built on top of a real business with active users, not a toy dataset.
+- **2Study** *(business, active)* — Independent exam-prep project for EXANI-II/UNAM, distributing study content and selling access directly to students via Instagram.
 
 ## Let's Connect
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/andycq6/)
+
+Open to conversations about software engineering, AI applied to real products, and research opportunities.
