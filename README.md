@@ -30,7 +30,3 @@ Software Engineering student at Universidad Veracruzana (Coatzacoalcos), current
 
 - **[2study_API](https://github.com/AndyCQ6/2study_API)** — Backend for 2Study's exam-prep content: serves study cards by subject/unit and keyword search, with a documented path toward semantic search (RAG). Built on top of a real business with active users, not a toy dataset.
 - **2Study** *(business, active)* — Independent exam-prep project for EXANI-II/UNAM, distributing study content and selling access directly to students via Instagram.
-
-## Let's Connect
-
-Open to conversations about software engineering, AI applied to real products, and research opportunities.
