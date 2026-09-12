@@ -2,10 +2,10 @@
 
 ## About me
 
-Software Engineering student at Universidad Veracruzana (Coatzacoalcos), currently building toward AI Engineering — backend systems, LLM-powered APIs, and shipping real products, not just notebooks.
+Software Engineering student at Universidad Veracruzana (Coatzacoalcos), currently building toward AI Engineering, backend systems, LLM-powered APIs, and shipping real products, not just notebooks.
 
-- 3rd-semester Software Engineering student, working through a self-directed roadmap to reach AI Engineer–level skills ahead of the formal AI coursework (which doesn't start until 7th semester here).
-- Creator of **2Study**, an independent exam-prep business (EXANI-II/UNAM content) with real paying users — now being rebuilt with an actual backend and, eventually, AI-powered search.
+- 3rd semester Software Engineering student, working through a self-directed roadmap to reach AI Engineer–level skills ahead of the formal AI coursework *(which doesn't start until 7th semester here).*
+- Creator of **2Study**, an independent exam-prep business (EXANI-II/UNAM content) with real paying users. *(now being rebuilt with an actual backend and, eventually, AI-powered search).*
 - Focused on production-oriented AI engineering: FastAPI, RAG, and LLM APIs, over purely academic/research ML.
 - Working toward a Mitacs Globalink-style research exchange in Canada, planned for 2028.
 
@@ -28,5 +28,5 @@ Software Engineering student at Universidad Veracruzana (Coatzacoalcos), current
 
 ## Selected Work
 
-- **[2study_API](https://github.com/AndyCQ6/2study_API)** — Backend for 2Study's exam-prep content: serves study cards by subject/unit and keyword search, with a documented path toward semantic search (RAG). Built on top of a real business with active users, not a toy dataset.
-- **2Study** *(business, active)* — Independent exam-prep project for EXANI-II/UNAM, distributing study content and selling access directly to students via Instagram.
+- **[2study_API](https://github.com/AndyCQ6/2study_API)**: Backend for 2Study's exam-prep content: serves study cards by subject/unit and keyword search, with a documented path toward semantic search (RAG). Built on top of a real business with active users, not a toy dataset.
+- **2Study** *(business, active)*: Independent exam-prep project for EXANI-II/UNAM, distributing study content and selling access directly to students via Instagram.
